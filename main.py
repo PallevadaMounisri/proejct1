@@ -14,5 +14,6 @@ if __name__ == '__main__':
     print_hi('PyCharm')
     print('I am Mounisri')
     print('Studying 2nd year')
+    print('Welcome to github')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
